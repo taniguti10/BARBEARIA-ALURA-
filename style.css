@@ -1,6 +1,15 @@
-body{ font-size: 20px;
-text-align: center;
-background-color: gray;}
+body{
+
+  font-size: 16px;
+   }
 
 
 .destaque{color: red;}
+
+.principal {background-color: gray;text-align: center;}
+
+.subtitulo{text-align: center;}
+
+.imagem{width: 100%;}
+
+.beneficios{width: 100%;}
