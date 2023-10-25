@@ -4,12 +4,21 @@ body{
    }
 
 
-.destaque{color: red;}
+  .imagem1{width: 100%;}
 
-.principal {background-color: gray;text-align: center;}
+.principal {background-color: rgb(151, 144, 144);text-align: center;}
+
+.negrito {color:red;}
 
 .subtitulo{text-align: center;}
 
-.imagem{width: 100%;}
+.beneficios{width: 50%;}
 
-.beneficios{width: 100%;}
+.lista{display:inline-block;
+vertical-align: top;}
+
+.imagem{width: 100%;
+align-content: center;}
+
+
+.titulo{ padding: 20px;}
