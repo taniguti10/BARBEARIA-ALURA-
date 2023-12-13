@@ -1,24 +1,13 @@
-body{
+body{font-size: 16px;}
 
-  font-size: 16px;
-   }
+.principal{background-color: gray;
+    text-align: center;}
 
-
-  .imagem1{width: 100%;}
-
-.principal {background-color: rgb(151, 144, 144);text-align: center;}
-
-.negrito {color:red;}
-
-.subtitulo{text-align: center;}
-
-.beneficios{width: 50%;}
-
-.lista{display:inline-block;
-vertical-align: top;}
-
-.imagem{width: 100%;
-align-content: center;}
-
-
-.titulo{ padding: 20px;}
+    .negrito{color: #ff0000;}
+    .imagem{width: 100%;}
+        .BENEFÍCIOS{text-align: center;}
+        .imagem-beneficios {width: 50%;}
+        .titulo{padding: 20px;}
+        .lista{display: inline-block;
+        vertical-align: top;}
+        
